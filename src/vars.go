@@ -26,4 +26,12 @@ func main() {
 
 	fmt.Println("Value of bool set: ", set)
 
+	// string
+	
+	var str string
+
+	str = "This is string variable"
+
+	fmt.Println("Value of string :", str)
+
 }
